@@ -1,0 +1,21 @@
+When a problem comes along, you must zip it!
+
+0 1 1 2 3 5
+
+0 871
+1 947
+2 199
+3 971
+4 331
+5 420
+6 822
+7 535
+
+4 2
+5 2
+
+@ABDKF
+
+3 6 1 2 4 5
+
+107
